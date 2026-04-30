@@ -1,5 +1,5 @@
-# CS133_SP26_datafile
-Data and files for CS 133 Spring 2026
+# California State University Crime Statistics Analysis
+Data and files for CS 133 Spring 2026 Term Project
 
 ## Installation
 We are using the  local setup using VS Code and a cloud-based approach using Google Colab.
